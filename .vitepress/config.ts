@@ -1,7 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
-  title: 'Fantastic-admin 官方文档',
+  title: 'Fantastic-admin 文档 (v3)',
   description: '一款开箱即用的 Vue 中后台管理系统框架，采用 Vue3 + Vite4 技术栈。',
   lang: 'zh-CN',
   base: '/v3-docs/',
@@ -52,7 +52,6 @@ export default defineConfig({
           text: '指引',
           items: [
             { text: '文档说明', link: '/guide/intro' },
-            { text: '为什么选择我们 ?', link: '/guide/why' },
           ],
           collapsed: false,
         },
