@@ -1,0 +1,1 @@
+import{_ as t,o as a,c as e,Q as s}from"./chunks/framework.e8ba32c2.js";const g=JSON.parse('{"title":"文档说明","description":"","frontmatter":{},"headers":[],"relativePath":"guide/intro.md","filePath":"guide/intro.md"}'),r={name:"guide/intro.md"},i=s("",4),o=[i];function c(n,d,p,l,_,m){return a(),e("div",null,o)}const f=t(r,[["render",c]]);export{g as __pageData,f as default};
