@@ -52,6 +52,7 @@ export default defineConfig({
           text: '指引',
           items: [
             { text: '文档说明', link: '/guide/intro' },
+            { text: '更新日志', link: '/guide/changelog' },
           ],
           collapsed: false,
         },
